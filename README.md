@@ -6,7 +6,8 @@ Skills: node.js / REACT / MongoDB / JS / HTML / CSS
 
 ## Examples of Work
 
-<a href="https://youtu.be/MU3zroFzjJM" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/MU3zroFzjJM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
+<a href="https://youtu.be/MU3zroFzjJM" target="_blank"><img src="http://img.youtube.com/vi/MU3zroFzjJM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/MU3zroFzjJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 💬 Ask me about node.js, React 
 - 📫 How to reach me: omaraboshamaa@gmail.com 
