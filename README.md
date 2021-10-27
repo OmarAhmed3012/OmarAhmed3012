@@ -8,6 +8,7 @@ Skills: node.js / REACT / MongoDB / JS / HTML / CSS
 
 <h3>Full E-commerce MERN website</h3>
 <a href="https://youtu.be/MU3zroFzjJM" target="_blank"><img src="http://img.youtube.com/vi/MU3zroFzjJM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
+<br />
 <a href="https://youtu.be/VT448ucj2lM" target="_blank"><img src="http://img.youtube.com/vi/VT448ucj2lM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
 <a href="https://youtu.be/R0cYuULacOc" target="_blank"><img src="http://img.youtube.com/vi/R0cYuULacOc/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
 
