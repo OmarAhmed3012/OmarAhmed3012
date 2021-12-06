@@ -20,7 +20,7 @@ Skills: node.js / REACT / MongoDB / JS / HTML / CSS
 
 <h3>Full E-commerce MERN website</h3>
 <a href="https://youtu.be/MU3zroFzjJM" target="_blank"><img src="http://img.youtube.com/vi/MU3zroFzjJM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
-<a href="https://omarsshopmernapp.herokuapp.com/">
+<a href="https://omarsshopmernapp.herokuapp.com/" target="_blank">
 <h3>Check out the deployed version</h3>
   </a>
 <br />
