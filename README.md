@@ -23,6 +23,11 @@ Skills: node.js / REACT / MongoDB / JS / HTML / CSS
 <a href="https://omarsshopmernapp.herokuapp.com" target="_blank">
 <p>Check out the deployed version</p>
   </a>
+  
+  
+<br />
+<h3>DJ-Events Next App</h3>
+<a href="https://youtu.be/-vEF5SRBPVU" target="_blank"><img src="http://img.youtube.com/vi/vEF5SRBPVU/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
 
 <br />
 <h3>chat app with Node.Js using Socket.io</h3>
