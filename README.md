@@ -1,39 +1,66 @@
-### Hi there 👋, my name is Omar
-#### I am a MERN Stack developer/ JavaScript developer / Backend developer (node.js)
-I'm a web developer and have been graduated from information technology and artificial intelligent faculty.
+# Hi there 👋, I'm Omar Ahmed  
 
-Skills: node.js / REACT / MongoDB / JS / HTML / CSS 
+🚀 **Senior Backend Engineer | Node.js | TypeScript | Cloud-Native Systems**  
+📍 Cairo, Egypt  
+📧 [omaraboshamaa@gmail.com](mailto:omaraboshamaa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/0marahmed01) | [GitHub](https://github.com/OmarAhmed3012)
 
-<br />
+---
 
-- 💬 Ask me about node.js, React 
-- 📫 How to reach me: omaraboshamaa@gmail.com 
+## 👨‍💻 About Me
+I’m a **Senior Backend Engineer** passionate about building scalable, resilient, and high-performance web applications and APIs.  
+With hands-on experience in **Node.js, TypeScript, NestJS, and cloud infrastructure (GCP)**, I specialize in designing backend systems that deliver real business impact.  
 
-<br />
+- ⚡ Experienced in **CI/CD optimization** (cut deployment times from hours → minutes).  
+- 🛠 Skilled at **system design, modular monoliths, and microservices**.  
+- ☁️ Strong in **cloud-native deployments** using Docker, Pulumi, and GCP.  
+- 💬 Ask me about **API design, event-driven architecture, and scalable databases**.  
 
-## Reach & Follow me
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/OmarAhmed3012)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omar-ahmed-84097b13b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/omar.ahmed.3012/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AboelWafa3012)  
+## 💼 Work Experience Highlights
+### **Senior Software Engineer @ Caelum Group (2024 – Present)**
+- Rebuilt CI/CD pipelines using **GitHub Actions + GCP Cloud Build**, cutting deployments from **3h → <8min**.  
+- Built a **Python-based video processing service** (face/screen blurring, voice alteration) deployed on GCP VM.  
+- Developed core backend in **NestJS + PostgreSQL**, managing infrastructure with **Pulumi**.
 
+### **Software Engineer @ Rabbit (2024)**  
+- Built backend services for a **grocery delivery platform** with TypeScript + TypeORM.  
+- Integrated **Kafka** for event-driven order and inventory processing.  
 
-## Examples of Work
+### **Software Engineer @ Unifi Solutions (2023 – 2024)**  
+- Delivered REST APIs for an **IoT device management marketplace** (NestJS + Express).  
+- Implemented **RabbitMQ event-driven workflows** and shared **NPM packages** for multi-project consistency.  
 
-<h3>Full E-commerce MERN website</h3>
-<a href="https://youtu.be/MU3zroFzjJM" target="_blank"><img src="http://img.youtube.com/vi/MU3zroFzjJM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
-<a href="https://omarsshopmernapp.herokuapp.com" target="_blank">
-<p>Check out the deployed version</p>
-  </a>
-  
-  
-<br />
-<h3>DJ-Events Next App</h3>
-<a href="https://youtu.be/-vEF5SRBPVU" target="_blank"><img src="https://i.ytimg.com/vi/-vEF5SRBPVU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATbofQGA574vAJbVssNQ84OeRQNA" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
+### **Software Engineer @ Damen E-Payment (2022 – 2023)**  
+- Built modular backend services with **Node.js, Express, MySQL, MongoDB, Redis**.  
+- Designed ETL processes + cross-database workflows for **financial transaction reporting**.  
 
-<br />
-<h3>chat app with Node.Js using Socket.io</h3>
-<a href="https://youtu.be/VT448ucj2lM" target="_blank"><img src="http://img.youtube.com/vi/VT448ucj2lM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
-<br />
-<h3>MEAN Stack Task manager</h3>
-<a href="https://youtu.be/R0cYuULacOc" target="_blank"><img src="http://img.youtube.com/vi/R0cYuULacOc/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="188" border="10" /></a>
+---
 
+## 🛠 Tech Stack
+**Languages**: JavaScript, TypeScript, Python, SQL  
+**Frameworks**: Node.js, NestJS, Express.js, gRPC  
+**Databases**: PostgreSQL, MongoDB, Redis, MySQL, Oracle  
+**Cloud & DevOps**: GCP, Pulumi, Docker, GitHub Actions, Cloud Build  
+**Messaging**: Kafka, RabbitMQ, Event-Driven Systems  
+**Principles**: SOLID, Agile, Modular Monoliths, Microservices, REST  
 
+---
+
+## 🚀 Projects
+- **[Chima Taxi Server](#)** – Backend server handling **real-time taxi orders in Rome** (IVR requests, high-throughput).  
+- **[MERN Inventory System](#)** – End-to-end **inventory management app** (MongoDB, Express, React, Node.js).  
+- **Video Processing Service** – Python app for **face blurring, screen masking, and voice alteration** on videos, deployed on **GCP VM**.  
+
+---
+
+## 📈 GitHub Stats
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAhmed3012&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAhmed3012&layout=compact&theme=radical)
+
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/0marahmed01)  
+- [Email](mailto:omaraboshamaa@gmail.com)  
+- Open to **senior backend opportunities** and **freelance collaborations**.
