@@ -1,66 +1,50 @@
-# Hi there 👋, I'm Omar Ahmed  
+# Omar Ahmed
 
-🚀 **Senior Backend Engineer | Node.js | TypeScript | Cloud-Native Systems**  
-📍 Cairo, Egypt  
-📧 [omaraboshamaa@gmail.com](mailto:omaraboshamaa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/0marahmed01) | [GitHub](https://github.com/OmarAhmed3012)
+> Senior Backend Engineer building resilient cloud platforms for video, payments, and commerce.
 
----
-
-## 👨‍💻 About Me
-I’m a **Senior Backend Engineer** passionate about building scalable, resilient, and high-performance web applications and APIs.  
-With hands-on experience in **Node.js, TypeScript, NestJS, and cloud infrastructure (GCP)**, I specialize in designing backend systems that deliver real business impact.  
-
-- ⚡ Experienced in **CI/CD optimization** (cut deployment times from hours → minutes).  
-- 🛠 Skilled at **system design, modular monoliths, and microservices**.  
-- ☁️ Strong in **cloud-native deployments** using Docker, Pulumi, and GCP.  
-- 💬 Ask me about **API design, event-driven architecture, and scalable databases**.  
+[Email](mailto:omaraboshamaa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/0marahmed01) · [GitHub](https://github.com/OmarAhmed3012) · Cairo, Egypt
 
 ---
 
-## 💼 Work Experience Highlights
-### **Senior Software Engineer @ Caelum Group (2024 – Present)**
-- Rebuilt CI/CD pipelines using **GitHub Actions + GCP Cloud Build**, cutting deployments from **3h → <8min**.  
-- Built a **Python-based video processing service** (face/screen blurring, voice alteration) deployed on GCP VM.  
-- Developed core backend in **NestJS + PostgreSQL**, managing infrastructure with **Pulumi**.
-
-### **Software Engineer @ Rabbit (2024)**  
-- Built backend services for a **grocery delivery platform** with TypeScript + TypeORM.  
-- Integrated **Kafka** for event-driven order and inventory processing.  
-
-### **Software Engineer @ Unifi Solutions (2023 – 2024)**  
-- Delivered REST APIs for an **IoT device management marketplace** (NestJS + Express).  
-- Implemented **RabbitMQ event-driven workflows** and shared **NPM packages** for multi-project consistency.  
-
-### **Software Engineer @ Damen E-Payment (2022 – 2023)**  
-- Built modular backend services with **Node.js, Express, MySQL, MongoDB, Redis**.  
-- Designed ETL processes + cross-database workflows for **financial transaction reporting**.  
+## 2025 Snapshot
+- Leading backend modernization at **Caelum Group**—orchestrating deployments with GitHub Actions and GCP Cloud Build, keeping releases under **8 minutes** end-to-end.
+- Owning privacy-first **video processing services** (Python + GCP VM) that deliver automated blurring and voice alteration for enterprise media workflows.
+- Scaling a modular **NestJS + PostgreSQL** platform with infrastructure-as-code via **Pulumi**, improving reliability across multi-tenant environments.
 
 ---
 
-## 🛠 Tech Stack
-**Languages**: JavaScript, TypeScript, Python, SQL  
-**Frameworks**: Node.js, NestJS, Express.js, gRPC  
-**Databases**: PostgreSQL, MongoDB, Redis, MySQL, Oracle  
-**Cloud & DevOps**: GCP, Pulumi, Docker, GitHub Actions, Cloud Build  
-**Messaging**: Kafka, RabbitMQ, Event-Driven Systems  
-**Principles**: SOLID, Agile, Modular Monoliths, Microservices, REST  
+## What I Solve
+- **Platform Architecture:** Shape modular monoliths and microservices with clear domain boundaries and event-driven patterns.
+- **Developer Velocity:** Design CI/CD pipelines, observability, and infrastructure automation that keep teams shipping confidently.
+- **Data & Messaging:** Model mission-critical data flows across PostgreSQL, MongoDB, Redis, Kafka, and RabbitMQ.
+- **API Engineering:** Ship TypeScript/Node.js services that balance performance, security, and maintainability.
 
 ---
 
-## 🚀 Projects
-- **[Chima Taxi Server](#)** – Backend server handling **real-time taxi orders in Rome** (IVR requests, high-throughput).  
-- **[MERN Inventory System](#)** – End-to-end **inventory management app** (MongoDB, Express, React, Node.js).  
-- **Video Processing Service** – Python app for **face blurring, screen masking, and voice alteration** on videos, deployed on **GCP VM**.  
+## Recent Wins
+- Cut Caelum Group’s Docker image build time from 3 hours to **sub-8-minute** deployments by rebuilding the pipeline around GitHub Actions and Cloud Build.
+- Rolled out a production **video privacy pipeline** combining Python, FFmpeg, and GCP to meet broadcast compliance requirements.
+- Launched shared **TypeScript service templates** and NPM packages to accelerate new service spin-up across teams.
+- Delivered event-driven inventory and order flows with **Kafka** during my time at Rabbit, improving operational transparency.
 
 ---
 
-## 📈 GitHub Stats
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAhmed3012&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAhmed3012&layout=compact&theme=radical)
+## Selected Projects
+- **Video Privacy Engine** – Python-based media workflow (face/screen blurring, voice masking) deployed on GCP Compute for secure content delivery.
+- **Chima Taxi Server (Freelance)** – High-throughput Node.js backend handling IVR taxi requests for city-wide operations in Rome.
+- **MERN Inventory System (Freelance)** – Full-stack inventory management solution using MongoDB, Express, React, and Node.js with real-time stock tracking.
 
 ---
 
-## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/0marahmed01)  
-- [Email](mailto:omaraboshamaa@gmail.com)  
-- Open to **senior backend opportunities** and **freelance collaborations**.
+## Toolbox
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frameworks:** Node.js, NestJS, Express.js, gRPC
+- **Cloud & DevOps:** Google Cloud Platform, Pulumi, Docker, GitHub Actions, Cloud Build
+- **Data & Messaging:** PostgreSQL, MongoDB, Redis, MySQL, Kafka, RabbitMQ, TypeORM
+- **Practices:** SOLID, Domain Modeling, Event-Driven Architecture, Agile Delivery
+
+---
+
+## Let’s Collaborate
+- Open to senior backend roles, platform engineering opportunities, and select freelance engagements.
+- Always happy to chat about scaling Node.js, tuning CI/CD, or building video and commerce backends—reach out via [email](mailto:omaraboshamaa@gmail.com) or [LinkedIn](https://www.linkedin.com/in/0marahmed01).
